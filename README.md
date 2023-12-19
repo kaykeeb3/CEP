@@ -22,9 +22,3 @@ Este projeto web oferece uma experiência intuitiva para consultar informações
 
 - **JavaScript:** Interação dinâmica com a API ViaCEP para atualizações em tempo real.
 
-## Instalação e Execução
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/Kayke-Ti/nome-do-repositorio.git
